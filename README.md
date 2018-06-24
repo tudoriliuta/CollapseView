@@ -1,5 +1,5 @@
 # AngelHackLondon
-Building damage classifier
+Building damage classifier for coordinating intervention teams to damaged areas in real time. 
 
 Steps:
 Core idea: Collapsed building classifier. Extendable to damage intensity classifier. 
