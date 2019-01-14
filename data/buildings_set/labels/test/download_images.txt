@@ -1,0 +1,10 @@
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//22828930_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//22828990_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//22829050_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//23429020_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//23429080_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//23578960_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//23579005_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//23729035_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//23879080_15.tif
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/test/map//24179065_15.tif

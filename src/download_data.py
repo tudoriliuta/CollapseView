@@ -41,7 +41,7 @@ def download(url_dir, path, data_type):
 
 if __name__ == '__main__':
 	# Initialisation
-	path = '/Users/Orchestrator/Documents/Ambition/Projects/AngelHackLondon/data/buildings_set'
+	path = '../AngelHackLondon/data/buildings_set'
 
 	urls = {'train': 'https://www.cs.toronto.edu/~vmnih/data/mass_buildings/train/sat/index.html', 
 	        'valid': 'https://www.cs.toronto.edu/~vmnih/data/mass_buildings/valid/sat/index.html', 
