@@ -1,4 +1,4 @@
-# AngelHackLondon
+# CollapseView - Computer Vision
 Building damage classifier for coordinating intervention teams to damaged areas in real time. 
 
 Core idea: Collapsed building classifier. Extendable to damage intensity classifier. 
